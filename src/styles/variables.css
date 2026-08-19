@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@400;500;600;700;800&family=Noto+Sans+Khmer:wght@300;400;500;600;700&display=swap");
+
+:root {
+  --primary-gold: #c89b3c;
+  --dark-gold: #9b7326;
+  --light-gold: #e4c675;
+  --pale-gold: #f5e7b9;
+  --cream: #fff8e7;
+  --background: #faf4e8;
+  --dark-brown: #3e2c1c;
+  --deep-brown: #26190f;
+  --soft-brown: #74512d;
+  --muted-brown: #9b876f;
+  --white: #ffffff;
+  --text-color: #30261d;
+  --soft-text: #705f4e;
+  --success: #55765b;
+  --danger: #a64637;
+  --border-color: rgba(116, 81, 45, 0.16);
+  --shadow-sm: 0 8px 24px rgba(62, 44, 28, 0.08);
+  --shadow-md: 0 18px 46px rgba(62, 44, 28, 0.13);
+  --shadow-lg: 0 28px 70px rgba(62, 44, 28, 0.18);
+  --border-radius-sm: 8px;
+  --border-radius-md: 14px;
+  --border-radius-lg: 22px;
+  --border-radius-xl: 32px;
+  --transition: 0.3s ease;
+  --heading-font: "Kantumruy Pro", "Noto Sans Khmer", sans-serif;
+  --body-font: "Noto Sans Khmer", "Khmer OS Battambang", sans-serif;
+  --container: min(1220px, calc(100% - 40px));
+}
