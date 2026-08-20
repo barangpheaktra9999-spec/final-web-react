@@ -14,7 +14,7 @@ export const slides = [
   },
   {
     id: 2,
-    image: "/images/slides/slide-1.jpg",
+    image: "/images/slides/slide4.png",
     // image: "/images/slides/slide-2.png",
     imagePosition: "center center",
     contentPosition: "left",
